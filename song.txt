@@ -1,6 +1,9 @@
 sword and spear
 wall of shileds
+<<<<<<< HEAD
 A ja pitaj a nisam popio
 Kruve i euri
 Lovci potomci
 dodjes 
+=======
+>>>>>>> parent of fbebec7 (added two more rows)
