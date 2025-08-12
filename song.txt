@@ -3,7 +3,12 @@ wall of shileds
 <<<<<<< HEAD
 A ja pitaj a nisam popio
 Kruve i euri
+<<<<<<< HEAD
 Lovci potomci
 dodjes 
 =======
 >>>>>>> parent of fbebec7 (added two more rows)
+=======
+>>>>>>> parent of 5e079fa (Ima ukupno 6 linija)
+***************
+*************
